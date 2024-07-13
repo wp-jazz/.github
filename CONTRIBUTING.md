@@ -32,6 +32,8 @@ If you have found any issues or vulnerabilities that might
 have security implications, please send a report privately
 to chauncey@mcaskill.ca.
 
+Learn more about our [security policy](./SECURITY.md).
+
 ## Bug reports
 
 A bug is a _demonstrable problem_ that is caused by the code in the repository.

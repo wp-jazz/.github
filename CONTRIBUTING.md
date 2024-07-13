@@ -113,3 +113,7 @@ merged:
 This Contribution Guide is adapted from the
 [Roots Contribution Guide](https://github.com/roots/.github/blob/f33fd27/CONTRIBUTING.md),
 version 2019-03-12.
+
+---
+
+<p align="center">🎷</p>

@@ -1,5 +1,13 @@
 # Contribution Guide
 
+Thank you for taking the time to contribute.
+
+This project adheres to the [Contributor Covenant code of conduct](./CODE_OF_CONDUCT.md).
+By participating, you agree to abide by its terms.
+Please report unacceptable behavior to chauncey@mcaskill.ca.
+
+---
+
 Please take a moment to review this document in order to make the contribution
 process easy and effective for everyone involved.
 
@@ -18,10 +26,16 @@ but please respect the following restrictions:
 * Please **do not** derail or troll issues. Keep the discussion on topic and
   respect the opinions of others.
 
+## Security reports
+
+If you have found any issues or vulnerabilities that might
+have security implications, please send a report privately
+to chauncey@mcaskill.ca.
+
 ## Bug reports
 
 A bug is a _demonstrable problem_ that is caused by the code in the repository.
-Good bug reports are extremely helpful - thank you!
+Good bug reports are extremely helpful — thank you!
 
 Guidelines for bug reports:
 
@@ -46,7 +60,7 @@ provide as much detail and context as possible.
 
 ## Pull requests
 
-Good pull requests - patches, improvements, new features - are a fantastic
+Good pull requests — patches, improvements, new features — are a fantastic
 help. They should remain focused in scope and avoid containing unrelated
 commits.
 
